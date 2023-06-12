@@ -1,2 +1,2 @@
 #!/bin/bash
-la -lt | head
+la -lt | head -n 10
